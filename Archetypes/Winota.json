@@ -1,0 +1,18 @@
+{
+  "Name": "Winota",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Winota, Joiner of Forces"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Elvish Mystic","Llanowar Elves","Lotus Cobra"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Angrath's Marauders","Kenrith, the returned King"]
+    }
+  ]
+}

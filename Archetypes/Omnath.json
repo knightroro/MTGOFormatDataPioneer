@@ -1,0 +1,26 @@
+{
+  "Name": "Omnath",
+  "IncludeColorInName": false,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Omnath, Locus of Creation"]
+    }
+  ],
+  "Variants": [
+    {
+    "Name": "NivToLight",
+      "IncludeColorInName": false,
+      "Conditions": [
+        {
+          "Type": "InMainboard",
+          "Cards": ["Niv-Mizzet Reborn"]
+        },
+        {
+          "Type": "InMainboard",
+          "Cards": ["Bring to Light"]
+        }
+      ]
+    }
+  ]
+}

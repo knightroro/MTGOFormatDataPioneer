@@ -1,0 +1,22 @@
+{
+  "Name": "Auras",
+  "IncludeColorInName": true,
+  "Conditions": [
+    {
+      "Type": "InMainboard",
+      "Cards": ["Sram, Senior Edificer"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["All That Glitters"]
+    },
+    {
+      "Type": "InSideboard",
+      "Cards": ["Lurrus of the Dream-Den"]
+    },
+    {
+      "Type": "InMainboard",
+      "Cards": ["Alseid of Life's Bounty"]
+    }
+  ]
+}
