@@ -7,12 +7,8 @@
       "Cards": ["Lotus Field"]
     },
     {
-      "Type": "InMainboard",
-      "Cards": ["Arboreal Grazer"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Hidden Strings"]
+      "Type": "DoesNotContain",
+      "Cards": ["Blood Sun"]
     }
   ]
 }
