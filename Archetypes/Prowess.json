@@ -4,11 +4,7 @@
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Soul-Scar Mage"]
-    },
-    {
-      "Type": "InMainboard",
-      "Cards": ["Monastery Swiftspear"]
+      "Cards": ["Soul-Scar Mage", "Monastery Swiftspear"]
     },
     {
       "Type": "InSideboard",
