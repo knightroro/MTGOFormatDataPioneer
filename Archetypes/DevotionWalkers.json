@@ -4,7 +4,11 @@
     "Conditions": [
       {
         "Type": "InMainboard",
-        "Cards": ["Nykthos, Shrine to Nyx","Oath of Nissa", "Nissa, Who Shakes the World"]
+        "Cards": ["Nykthos, Shrine to Nyx"]
+      },
+      {
+        "Type": "InMainboard",
+        "Cards": ["Oath of Nissa", "Nissa, Who Shakes the World"]
       }
     ]
   }

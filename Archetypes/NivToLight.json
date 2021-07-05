@@ -1,14 +1,14 @@
 {
-  "Name": "Omnath",
+  "Name": "NivToLight",
   "IncludeColorInName": false,
   "Conditions": [
     {
       "Type": "InMainboard",
-      "Cards": ["Omnath, Locus of Creation"]
+      "Cards": ["Niv-Mizzet Reborn"]
     },
     {
       "Type": "InMainboard",
-      "Cards": ["Genesis Ultimatum"]
+      "Cards": ["Bring to Light"]
     }
   ]
 }
